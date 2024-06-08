@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer on a mission to
 
 ## The Tech Wizard 🧙‍♂️
 
-I specialize in weaving magic with Python and JavaScript, crafting clean, maintainable code that adheres to the principles of Test-Driven Development (TDD). But that's not all – I'm also an advocate of DevOps wizardry, with experience in building robust CI/CD pipelines and taming the wild Ubuntu systems.
+I specialize in weaving magic with Python and JavaScript, crafting clean, maintainable code that adheres to modern-day industry-standard software engineering principles. But that's not all – I'm also comfortable with standard software DevOps, with experience in building robust CI/CD pipelines with GitHub Actions and taming the wild Ubuntu systems.
 
 Recently, I've embarked on a new adventure, diving headfirst into the world of cloud-native technologies and containerization. Docker and Kubernetes, prepare to be mastered! I'm eagerly exploring these cutting-edge tools, ready to unleash their full potential in my future projects.
 
